@@ -1,3 +1,4 @@
+
 ![logo](https://github.com/SUJAN-BA/SUJAN-BA/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm SUJAN B A</h1>
 <h3 align="center">A passionate frontend developer</h3>
@@ -10,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/sujan_suja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujan_suja" height="30" width="40" /></a>
+<a href="https://instagram.com/sujan_suja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujan_suja_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sujan_b_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujan_b_a" height="30" width="40" /></a>
 </p>
 
