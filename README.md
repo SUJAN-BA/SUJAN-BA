@@ -1,3 +1,4 @@
+![logo](https://github.com/SUJAN-BA/SUJAN-BA/blob/main/Banner.gif)
 <h1 align="center">Hi 👋, I'm SUJAN B A</h1>
 <h3 align="center">A passionate MERN stack developer</h3>
 
